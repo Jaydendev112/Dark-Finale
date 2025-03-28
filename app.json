@@ -84,7 +84,7 @@
     },
     "BOT_NAME": {
       "description": "put A name for your bot",
-      "value": "POPKID-MD",
+      "value": "dark-MD",
       "required": false
   
     },
